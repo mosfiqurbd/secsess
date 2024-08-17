@@ -1,0 +1,128 @@
+*{
+    color: green;
+}
+#link1 {
+    color: blue;
+}
+.nav-link {
+    background-color: 
+    color:green;
+}
+:root{
+    --primary-color:#59e0b38a;
+    --secondary-color:#4f4f4f4f;
+    --background-color: #fff;
+}
+a[href] {
+    background: ;
+    color: ;
+}
+body{
+    background-color:var(--background-color);
+    color: #333;
+    button{
+        background-color: #4caf50;
+        margin: 0;
+        padding: 0;
+        
+    }
+
+    button {
+
+       background-color:var(--primary-color) ;
+       color: #000;
+    }
+  button:hover {
+    background-color: papayawhip;
+    color: #000;
+  }
+
+  h1 :: first-letter{
+    color: blue;
+  }
+  
+
+  
+}
+/* header starts here*/ 
+header{ 
+    background-color: var(--background-color));
+    color: #000;
+    padding: 1.5rem 0;
+
+}
+/* header ends here*/
+nav ul { list-style: none;
+}
+nav ul li {  margin: 0 0.8rem;
+}
+nav ul li a { color: #000; 
+    text-decoration: none;
+
+}
+/* main starts here */
+
+main{
+    
+    }
+/* main ends here*/
+
+    /*footer starts here*/
+}
+footer{
+    background-color: green;
+     
+    text-align: center;
+}
+/*footer ends here*/
+/* a=number of id
+b= number of class,pseduo,attributes
+c=number of elements,pseduo element*/
+h1{ /* a=0 b=0 c=1 */
+    background-color:yellow;
+}
+
+.title-id { /*a=0 b=1 c=0*/
+     background-color: yellow;
+}
+h1{ font-size: 2em 
+    
+    }
+p{
+  font-size: 2em;
+  font-weight: bold;
+  font-style: italic;
+  font-family: "Roboto", sans-serif;
+  color: rgb(0,250,0);
+  text-transform: center;
+  text-decoration: overline;
+  letter-spacing: 0.2rem;
+  word-spacing: ;
+  line-height: ;
+}
+table,th,td{
+
+}
+th{
+    background-color:pink;
+}
+.social-media a {
+    color: ;
+    font-size: 1.2rem;
+    text-decoration: none;
+    
+
+}
+h3{
+    text-align: center;
+}
+
+h2{
+    height: 2rem;
+    width: 2rem;
+    padding: 1rem  2rem 1rem 2rem;
+    margin: 1rem;
+    border: 1rem solid darkblue;
+}
+
+    
